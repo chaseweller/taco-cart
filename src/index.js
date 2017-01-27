@@ -1,7 +1,7 @@
-'use strict';
+import * as Menu from './menu';
 
-export default {
-  greet(){
-    return 'Hello World';
-  }
-}
+console.log(Menu.taco);
+
+
+
+
